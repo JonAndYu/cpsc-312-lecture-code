@@ -106,7 +106,6 @@ Let's test `qsort` a bit: on `[]`, on `[2, 4, 6, 0, 1]`, and on `"mindblowing"`.
 We'll use `ghci` for its REPL (read-eval-print-loop) to try these out.
 (*Exercise!*)
 
-
 **Note: we stopped here on day 1.**
 
 Next, let's try `qsort` on something bigger.
